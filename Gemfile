@@ -49,5 +49,5 @@ end
  
  gem 'acts_as_votable', '~> 0.11.1'
  
- gem 'carrierwave', '~> 1.0'
+ gem 'carrierwave', '~> 1.3'
 
